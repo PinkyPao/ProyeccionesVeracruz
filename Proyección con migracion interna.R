@@ -1,5 +1,5 @@
 ### Proyecto final  Analisis demografico III
-### Autores: Lopez Velazquez Omar Luciano y Vazquez Castillo Paola
+### Autores: Vazquez Castillo Paola y Lopez Velazquez Omar Luciano
 ### Proyección de población del Estado de Veracruz de Ignacio de la Llave
 ### Fecha de creacion: 3 de diciembre 2019 
 ### Ultima modificacion: 6 de diciembre 2019 
